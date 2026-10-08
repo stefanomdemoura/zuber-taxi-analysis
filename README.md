@@ -1,7 +1,8 @@
 # Zuber — análise do mercado de táxis em Chicago
 
-Projeto de análise exploratória sobre corridas de táxi em Chicago, combinando comparação de empresas, análise geográfica de destinos e teste de hipótese sobre condições climáticas.
+Projeto de análise exploratória sobre corridas de táxi em Chicago, combinando comparação de empresas, análise geográfica de destinos e teste de hipótese sobre condições climáticas, desenvolvido na formação de Analista de Dados da TripleTen.
 
+**English summary.** Exploratory analysis of taxi rides in Chicago, covering market concentration among taxi companies, the top ten drop-off neighborhoods and a hypothesis test on weather conditions. Flash Cab led by a wide margin in the period analyzed, and Loop, River North, Streeterville and West Loop had the highest average number of drop-offs. A Welch's t-test found a significant difference in average Saturday ride duration between the Loop and O'Hare under good and bad weather. Project developed as part of TripleTen's Data Analyst program.
 ## Objetivo
 
 Entender a concentração do mercado, identificar os principais bairros de destino e verificar se a duração média das viagens entre Loop e O'Hare difere conforme as condições climáticas aos sábados.
